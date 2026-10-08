@@ -49,7 +49,8 @@ Progressive monthly PAYE modelled on Rwanda's schedule:
 ## 3. Repository Structure
 
 ```
-plsql-goto-functions-<studentID>-samuel/
+plsql-goto-functions-29706
+-neema/
 ├── README.md
 ├── .gitignore
 ├── 00_setup/
