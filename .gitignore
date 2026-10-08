@@ -1,0 +1,18 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Oracle / SQL*Plus / SQL Developer output
+*.log
+*.lst
+*.bad
+*.dsc
+afiedt.buf
+sqlnet.log
+
+# Local credentials (never commit)
+*.env
+connection*.txt
